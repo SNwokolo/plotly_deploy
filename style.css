@@ -1,0 +1,30 @@
+body {
+
+    color: #fbf8f9;
+    background-color: rgb(68, 6, 62);
+}
+h5 {
+
+    color: black
+}
+
+h3 {
+
+    color:rgb(16, 15, 16)
+}
+
+.panel-body{
+
+color:rgb(16, 15, 16)
+
+}
+
+.well{
+
+    color:rgb(16, 15, 16)
+}
+.jumbotron {
+    background-image: url("Enterobacteriaceae_bacteria_G_1201441269-scaled.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
